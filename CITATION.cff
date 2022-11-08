@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Danthine
+    given-names: Brigit
+    orcid: https://orcid.org/0000-0002-4088-255X
+  - family-names: Thiery
+    given-names: Florian
+    orcid: https://orcid.org/0000-0002-3246-3531
+  - name: "CRS Guesser by the Research Squirrel Engineers Network"
+title: "CRS Guesser"
+abstract: QGIS Plugin to guess the CRS
+version: 0.15
+type: software
+doi: 10.5281/zenodo.TBD
+date-released: 2022-xx-yy
+identifiers:
+  - description: This is the collection of archived snapshots of all versions
+    type: doi
+    value: "10.5281/zenodo.TBD"
+  - description: This is the archived snapshot of version 0.1
+    type: doi
+    value: "10.5281/zenodo.TBD"
+repository-code: "https://github.com/Research-Squirrel-Engineers/crs-guesser"
+keywords:
+  - "CRS"
+contact:
+  - affiliation: "Research Squirrel Engineers Network"
+    email: brigit.danthine@uibk.ac.at
+    family-names: Brigit
+    given-names: Danthine
+preferred-citation:
+  authors:
+    - family-names: Danthine
+      given-names: Brigit
+    - family-names: Thiery
+      given-names: Florian
+  title: "CRS Guesser"
+  type: software
+  year: 2022
